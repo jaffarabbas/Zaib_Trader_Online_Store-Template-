@@ -4,22 +4,3 @@ body {
     margin: 0;
     box-shadow: border-box;
 }
-
-.page_wrapper {
-    height: 100vh;
-    color: #fff;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    background-image: url('../img/imgwall.jpg');
-}
-
-.bak_im {
-    opacity: 20%;
-}
-
-#nav {
-    background: none;
-}
